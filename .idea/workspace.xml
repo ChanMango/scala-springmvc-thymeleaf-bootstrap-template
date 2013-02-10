@@ -78,15 +78,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HomeController.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/bluecompute/controllers/HomeController.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="11" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SecureController.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/bluecompute/controllers/SecureController.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,10 +98,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="22" selection-start="481" selection-end="481" vertical-scroll-proportion="0.57416266">
+            <state line="23" column="44" selection-start="663" selection-end="663" vertical-scroll-proportion="-14.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="174" column="86" selection-start="5543" selection-end="5543" vertical-scroll-proportion="3.6263735">
               <folding />
             </state>
           </provider>
@@ -147,7 +147,9 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/security-context.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="73" selection-start="1324" selection-end="1324" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1360525096000" expanded="true" signature="1250:1326" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -975,13 +977,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.0.RELEASE/spring-webmvc-3.2.0.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/support/ControllerClassNameHandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="13" selection-start="2725" selection-end="2725" vertical-scroll-proportion="1.1341463">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/locale/messages_en.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1036,7 +1031,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/security-context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="73" selection-start="1324" selection-end="1324" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1360525096000" expanded="true" signature="1250:1326" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1095,7 +1092,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="481" selection-end="481" vertical-scroll-proportion="0.57416266">
+        <state line="23" column="44" selection-start="663" selection-end="663" vertical-scroll-proportion="-14.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="174" column="86" selection-start="5543" selection-end="5543" vertical-scroll-proportion="3.6263735">
           <folding />
         </state>
       </provider>
