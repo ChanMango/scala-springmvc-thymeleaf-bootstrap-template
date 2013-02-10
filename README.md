@@ -17,7 +17,8 @@ Stack
 * Spring Security 3.2.0 M1
 * [Spring Security Scala Extensions](http://blog.springsource.org/2012/12/10/introducing-spring-scala/) - Scala extensions for spring
 * [Jacks Jackson module](https://github.com/wg/jacks) - Handle's serialization of objects to JSON. The default Jackson based mapper does not handle scala case classes.
-* Thymeleaf 2.0 + Layout Plugin - Excellent templating engine. I use the layout dialect  to use it for decorating as well.
+* [Thymeleaf 2.0](http://www.thymeleaf.org) + [Layout Plugin](https://github.com/ultraq/thymeleaf-layout-dialect) - Excellent templating engine. I use 
+the layout dialect  to use it for decorating as well.
 * Bootstrap - Twitter's Bootstrap CSS
 * Logback - for logging. Example showcases how to get Spring to use logback instead of Apache commons logging.
 * Maven - For build and jetty integration
@@ -34,3 +35,4 @@ Based on [thymeleaf-spring-maven-archetype](https://github.com/maggandalf/thymel
 Contact
 =======
 Twitter: [@zoheb](http://www.twitter.com/zoheb)
+Web: [zoheb.com](http://www.zoheb.com)
