@@ -14,6 +14,7 @@ Spring Security and templating with Thymeleaf.
 
 Stack
 =====
+* Scala 2.9.2
 * Spring 3.2.0 RELEASE
 * Spring MVC 3.2.0
 * Spring Security 3.2.0 M1
