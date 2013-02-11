@@ -5,9 +5,11 @@ A starter web application project combining Scala, Spring, Spring MVC, Thymeleaf
 
 What is this?
 =============
-Spring MVC is a great web framework, however it needs to integrated with bunch of other libraries to make it really powerful!
- 
-In this sample project, I demonstrate using Scala with Spring MVC instead of Java. Additionally, I integrate with
+Spring MVC is a powerful web development framework, however it needs to integrated with bunch of other libraries to make it really powerful! However 
+putting together everything needed to get things off the ground is still pretty time consuming and challenging and one of the reasons why
+we are seeing one-stop frameworks like Play! become popular. 
+
+In this sample project, I also demonstrate using Scala with Spring MVC instead of Java. Additionally, I integrate with
 Spring Security and templating with Thymeleaf.
 
 Stack
@@ -35,4 +37,5 @@ Based on [thymeleaf-spring-maven-archetype](https://github.com/maggandalf/thymel
 Contact
 =======
 Twitter: [@zoheb](http://www.twitter.com/zoheb)
+
 Web: [zoheb.com](http://www.zoheb.com)
